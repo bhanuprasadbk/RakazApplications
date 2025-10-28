@@ -1,0 +1,72 @@
+// .total-devices-text {
+//   text-align: center;
+//   margin-top: 10px;
+//   font-size: 14px;
+//   color: #666666;
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+//   gap: 8px;
+// }
+
+// .bullet-point {
+//   color: #cccccc;
+//   font-size: 16px;
+// }
+
+// // Ensure the chart aligns properly with other boxes
+// .card-body {
+//   display: flex;
+//   flex-direction: column;
+//   height: 100%;
+// }
+
+// // Chart container styling to match other components
+// app-dashboard-charts {
+//   flex: 1;
+//   display: block;
+//   width: 100%;
+// }
+
+// // Parameter dropdown styling
+// .parameter-dropdown {
+//   margin-left: auto;
+//   min-width: 200px;
+  
+//   .custom-ng-select {
+//     .ng-select {
+//       border: 1px solid #ddd;
+//       border-radius: 4px;
+      
+//       .ng-select-container {
+//         min-height: 38px;
+//         border: none;
+//         box-shadow: none;
+        
+//         .ng-value-container {
+//           padding-left: 8px;
+//         }
+//       }
+      
+//       &.ng-select-focused {
+//         border-color: #5040B6;
+//         box-shadow: 0 0 0 0.2rem rgba(80, 64, 182, 0.25);
+//       }
+//     }
+//   }
+// }
+
+// // Card title layout for parameter reading section
+// .cardTitle {
+//   display: flex;
+//   justify-content: space-between;
+//   align-items: center;
+//   margin-bottom: 20px;
+  
+//   h2 {
+//     margin: 0;
+//     font-size: 1.5rem;
+//     font-weight: 600;
+//     color: #333;
+//   }
+// }

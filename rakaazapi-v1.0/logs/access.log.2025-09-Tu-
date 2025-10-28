@@ -1,0 +1,75 @@
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"All group parameters fetched successfully"}
+{"level":"info","message":"All group parameters fetched successfully"}
+{"level":"info","message":"User logged in successfully: yaantrac"}
+{"level":"info","message":"Customer admins fetched successfully"}
+{"level":"info","message":"Currencies fetched successfully"}
+{"level":"info","message":"Customer admin types fetched successfully"}
+{"level":"info","message":"Countries fetched successfully"}
+{"level":"info","message":"States fetched for country: 101"}
+{"level":"info","message":"Cities fetched for state 36"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Subscriptions fetched successfully"}
+{"level":"info","message":"Sensor group mappings fetched successfully"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer types fetched successfully"}
+{"level":"info","message":"Subscriptions fetched successfully"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"Password changed for user: 1"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"Password changed for user: 1"}
+{"level":"info","message":"User logged in successfully: yaantrac"}
+{"level":"info","message":"Customer admins fetched successfully"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"Password changed for user: 1"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"User logged in successfully: testadmin"}
+{"level":"info","message":"User logged in successfully: cteplcust1"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"Sensor group mappings fetched successfully"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"Customer admin fetched with ID: 1"}
+{"level":"info","message":"User logged in successfully: cteplcust1"}
+{"level":"info","message":"User logged in successfully: cteplcust1"}
+{"level":"info","message":"User logged in successfully: yaantrac"}
+{"level":"info","message":"Customer admins fetched successfully"}
+{"level":"info","message":"Sensors fetched successfully"}
+{"level":"info","message":"Devices fetched successfully"}
+{"level":"info","message":"Device mapping list fetched successfully"}
+{"level":"info","message":"Device mapping list by customer ID fetched successfully"}
+{"level":"info","message":"Device mapping list by customer ID fetched successfully"}
+{"level":"info","message":"Customer admins fetched successfully"}
+{"level":"info","message":"Device report fetched successfully"}
+{"level":"info","message":"Device report fetched successfully"}
+{"level":"info","message":"Device report fetched successfully"}
+{"level":"info","message":"User logged in successfully: cteplcust1"}
+{"level":"info","message":"Sensors fetched successfully"}
+{"level":"info","message":"Customer admins fetched successfully"}
+{"level":"info","message":"Units fetched successfully"}
+{"level":"info","message":"User logged in successfully: cteplcust1"}
